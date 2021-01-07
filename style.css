@@ -1,0 +1,44 @@
+body{
+    background: url(Rbfb6505eb05958197cf7d73c7fc04eac.jpeg) no-repeat center center fixed ;
+    
+}
+div{
+    background-color: #52057b98;
+    color: white;
+    margin: 0px 10% 0px 10%;
+    text-align: center;
+    border-radius: 10px;
+    font-size: 20px;
+    
+}
+h1{
+    color:whitesmoke;
+    font-size: 5em;
+    text-size-adjust: 190px;
+    align-items: center;
+    text-align: center;
+    text-decoration: wheat;
+    font-family: 'Redressed', cursive;;
+}
+img{
+    width: 30%;
+    transition: all 1s;
+    padding:10px 0px 10px 0px;
+}
+img:hover{
+    transform: scale(1.1);
+}
+button{
+    border-radius:  10px;
+    width: 30%;
+    height: 50px;
+    color: teal;
+    font-size: 30px;
+    transition: all 1ms;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+button:hover{
+    color: rebeccapurple;
+    background-color: black;
+    transform:scale(1.2);
+}
