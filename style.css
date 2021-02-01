@@ -1,4 +1,4 @@
-body{
+zbody{
     background: url(Rbfb6505eb05958197cf7d73c7fc04eac.jpeg) no-repeat center center fixed ;
     
 }
@@ -35,7 +35,7 @@ button{
     color: teal;
     font-size: 30px;
     transition: all 1ms;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
 }
 button:hover{
     color: rebeccapurple;
